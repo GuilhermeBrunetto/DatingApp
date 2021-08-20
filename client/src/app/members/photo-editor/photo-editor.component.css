@@ -1,0 +1,19 @@
+img.img-thumbnail {
+    height: 125px;
+    min-width: 125px !important;
+    margin-bottom: 2px;
+}
+
+.nv-file-over {
+    border: dotted 3px pink;
+}
+
+input[type=file] {
+    color: transparent;
+}
+
+.btn {
+    padding-top: 2px;
+    min-height: 45px;
+    justify-content: center;
+}
